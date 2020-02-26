@@ -2,7 +2,7 @@
 name = "affably"
 version = "0.1.0"
 authors = ["Levi Notik <affably@levinotik.com>"]
-description = "A pleasantly easy and warmly polite web framework"
+description = "A pleasantly easy and warmly polite web framework for Rust"
 repository = "https://github.com/levinotik/affably.git"
 edition = "2018"
 license = "MIT/Apache-2.0"
